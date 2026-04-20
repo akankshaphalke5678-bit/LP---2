@@ -1,0 +1,5 @@
+def sum (a,b):
+return a+b
+
+obj = sum(10,5):
+print(obj)
